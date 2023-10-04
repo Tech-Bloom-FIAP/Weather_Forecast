@@ -71,30 +71,5 @@ def menu():
     opcao = int(input("Escolha uma opção: "))
     dados(opcao)
 
-    '''
-    while opcao != 3:
-        while True:
-            try:
-                print("1 - Ver Produtos")
-                print("2 - Depositar Produto(s)")
-                print("3 - Finalizar sessão \n")
-
-                opcao = int(input("Escolha a opção desejada: "))
-                if opcao <= 0 or opcao > 3:
-                    raise VerificaError
-                print("\n")
-
-                match opcao:
-                        case 1: 
-                            escolha_produto()
-                        case 2:
-                            descarte()
-                        case 3:
-                            print("ElekSell agradece a sua vinda, muito obrigado !")
-                            break
-            except ValueError:
-                print("O valor informado não é um número \n")
-            except VerificaError:
-                print("Digite apenas as opções exibidas em tela \n")'''
 
 menu()
