@@ -11,6 +11,8 @@ class TelefoneError(Exception):
      pass
 class CpfError(Exception):
      pass
+class VerificaError(Exception):
+     pass
 
 def formata_dados(nascimento: str = "" , cpf: str = "" , telefone: str = "" ):
     nascimento_formatado = f"{nascimento[:2]}/{nascimento[2:4]}/{nascimento[4:]}"
@@ -81,23 +83,53 @@ def verifica():
             return True
     return False
 
+# MENU SECUNDÁRIO
+
+def menusec():
+    while True:
+        try: 
+            print('''1- Previsões
+        2- 
+        3- Psicologia''')
+            opcao = int(input("Escolha uma opção: "))
+            print("\n")
+            if opcao <= 0 or opcao > 2:
+                print("\n")
+                raise VerificaError
+        except ValueError:
+            print("O valor informado não é um número \n")
+        except VerificaError:
+                print("Digite apenas as opções exibidas em tela \n")
+
+
+
 def menu():
     """
     Função principal que controla o menu principal e as ações do usuário.
     """
     while True:   
-        print('''1- Cadastro
+        try:
+            print('''1- Cadastro
 2- Login''')
-        opcao = int(input("Escolha uma opção: "))
-        
-        if opcao == 1:
-            cadastro()
-        elif opcao == 2:
-            if verifica():
-                print("FOI")
-                # menusec()
-            else:
-                print("Login invalido")
+            opcao = int(input("Escolha uma opção: "))
+            print("\n")
+            if opcao <= 0 or opcao > 2:
+                print("\n")
+                raise VerificaError
+                
+            if opcao == 1:
+                cadastro()
+            elif opcao == 2:
+                if verifica():
+                    print("FOI")
+                    #menusec()
+                    break
+                else:
+                    print("Login invalido")
+        except ValueError:
+            print("O valor informado não é um número \n")
+        except VerificaError:
+                print("Digite apenas as opções exibidas em tela \n")
 
 
 menu()
