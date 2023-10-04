@@ -1,0 +1,8 @@
+{
+    "Nome": [],
+    "Data": "08/03/2005",
+    "CPF": "123.456.789-10",
+    "Email": "vitorh565.vh@gmail.com",
+    "Telefone": "(11) 97201-2887",
+    "Senha": "senha123"
+}
