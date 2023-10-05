@@ -1,9 +1,3 @@
-'''
-1- Previsão do tempo + Chance de enchentes (Previsão de enchentes)
-2- Como se portar em uma enchente  
-3- Psicologia (TeleMedicina)
-'''
-
 import json
 
 #Exceções personalizadas
@@ -136,7 +130,57 @@ def previsoes():
                 print("Digite apenas as opções exibidas em tela \n")
 
 def enchente():
-    print("Enchente")
+    print('''Mantenha-se informado:
+Fique atento às previsões meteorológicas e aos alertas de enchentes emitidos pelas autoridades locais.
+Tenha um rádio à pilha ou um dispositivo móvel carregado para receber atualizações de emergência.
+          
+Planeje com antecedência: 
+Crie um plano de evacuação para você e sua família, identificando rotas seguras para deixar a área em caso de enchente.
+Monte um kit de emergência com alimentos não perecíveis, água, medicamentos, lanternas, pilhas, cobertores e outros suprimentos essenciais.
+Mantenha documentos importantes, como identidade, certidões, apólices de seguro e registros médicos, em um local seguro e à prova d'água.
+          
+Evacue, se necessário:
+Se as autoridades ordenarem a evacuação da área, siga as instruções imediatamente.
+Não tente atravessar enchentes de carro ou a pé, pois as águas rápidas e turbulentas podem ser extremamente perigosas.
+
+Proteja sua casa: 
+Eleve os objetos de valor e móveis para áreas mais altas da casa, se possível.
+Desligue a eletricidade, o gás e a água para evitar riscos de incêndio e vazamentos.
+Utilize sacos de areia ou barreiras temporárias para proteger sua casa de inundações, se disponíveis.
+          
+Mantenha-se seguro durante a enchente:
+Evite áreas inundadas, especialmente ruas e estradas alagadas.
+Mantenha-se em um local seguro e elevado, como o andar superior de sua casa ou o telhado.
+Não nade ou brinque na água das enchentes, pois elas podem esconder perigos, como correntes fortes e detritos.
+
+Após a enchente:
+Espere até que as autoridades declarem que é seguro retornar à área afetada.
+Não consuma alimentos ou água contaminados pela enchente.
+Avalie os danos à sua propriedade e entre em contato com a companhia de seguros.
+''')
+
+    print("Dicas adicionais \n")
+
+    print('''Comunique-se:
+Mantenha-se em contato com familiares e amigos para informá-los sobre sua situação e seu paradeiro.
+Tenha um plano de comunicação de emergência estabelecido.
+        
+Esteja preparado para ficar isolado:
+Em algumas situações, pode não ser possível evacuar imediatamente. Esteja preparado para ficar em casa por vários dias, se necessário.
+Tenha suprimentos adicionais, como alimentos não perecíveis e água, para durar durante um período prolongado.
+    
+Cuide da saúde mental:
+Enfrentar uma enchente pode ser estressante e emocionalmente desafiador. Procure apoio emocional de amigos, familiares ou profissionais de saúde mental, se necessário.
+    
+Monitore as condições:
+Esteja atento ao nível da água e às mudanças nas condições climáticas. As enchentes podem continuar a piorar antes de melhorar.
+Escute atentamente as atualizações das autoridades e siga as instruções.
+    
+Ajude os outros:
+Se você estiver seguro e em posição de fazê-lo, ajude vizinhos idosos, pessoas com mobilidade reduzida ou outras pessoas em necessidade.
+    
+Conheça os procedimentos de resgate:
+Familiarize-se com os procedimentos de resgate locais e os números de emergência, caso precise de assistência.\n''')
 
 def psico():
     print('''Aguarde por um instante !
