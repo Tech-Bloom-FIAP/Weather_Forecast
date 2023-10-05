@@ -34,14 +34,6 @@ Sinta-se à vontade para contribuir para este projeto fazendo pull requests ou r
 
 ## Autores
 
-- Vitor Hugo Rodrigues
-- Leticia Resina
-- Lucas Vinicius de Almeida
-- João Pedro de Souza
-- João Pedro Chambrone
-
-## Autores
-
 - [![Vitor Hugo](https://github.com/Torugo0.png)](https://github.com/Torugo0)
 - [![Leticia Resina](https://github.com/letyresina.png)](https://github.com/letyresina)
 - [![Lucas Vinicius de Almeida](https://github.com/lvininicius.png)](https://github.com/lvininicius)
