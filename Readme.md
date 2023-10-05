@@ -34,8 +34,8 @@ Sinta-se à vontade para contribuir para este projeto fazendo pull requests ou r
 
 ## Autores
 
-- [![Vitor Hugo](https://github.com/Torugo0.png)](https://github.com/Torugo0)
-- [![Leticia Resina](https://github.com/letyresina.png)](https://github.com/letyresina)
-- [![Lucas Vinicius de Almeida](https://github.com/lvininicius.png)](https://github.com/lvininicius)
-- [![João Pedro de Souza](https://github.com/JBVJoaoV.png)](https://github.com/JBVJoaoV)
-- [![João Pedro Chambrone](https://github.com/JoaoChambrone.png)](https://github.com/JoaoChambrone)
+- [<img src="https://github.com/Torugo0.png" width="100">](https://github.com/Torugo0) Vitor Hugo
+- [<img src="https://github.com/letyresina.png" width="100">](https://github.com/letyresina) Leticia Resina
+- [<img src="https://github.com/lvininicius.png" width="100">](https://github.com/lvininicius) Lucas Vinicius de Almeida
+- [<img src="https://github.com/JBVJoaoV.png" width="100">](https://github.com/JBVJoaoV) João Pedro de Souza
+- [<img src="https://github.com/JoaoChambrone.png" width="100">](https://github.com/JoaoChambrone) João Pedro Chambrone
