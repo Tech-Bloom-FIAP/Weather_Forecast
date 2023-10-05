@@ -39,3 +39,11 @@ Sinta-se à vontade para contribuir para este projeto fazendo pull requests ou r
 - Lucas Vinicius de Almeida
 - João Pedro de Souza
 - João Pedro Chambrone
+
+## Autores
+
+- [![Vitor Hugo](https://github.com/Torugo0.png)](https://github.com/Torugo0)
+- [![Leticia Resina](https://github.com/letyresina.png)](https://github.com/letyresina)
+- [![Lucas Vinicius de Almeida](https://github.com/lvininicius.png)](https://github.com/lvininicius)
+- [![João Pedro de Souza](https://github.com/JBVJoaoV.png)](https://github.com/JBVJoaoV)
+- [![João Pedro Chambrone](https://github.com/JoaoChambrone.png)](https://github.com/JoaoChambrone)
