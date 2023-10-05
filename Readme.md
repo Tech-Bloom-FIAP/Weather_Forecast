@@ -31,20 +31,3 @@ Certifique-se de ter o Python instalado em seu sistema. Você também precisará
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto fazendo pull requests ou relatando problemas.
-
-## Autores
-
-[<img src="https://github.com/Torugo0.png" width="80">](https://github.com/Torugo0)  
-*Vitor Hugo*
-
-[<img src="https://github.com/letyresina.png" width="80">](https://github.com/letyresina)  
-*Leticia Resina*
-
-[<img src="https://github.com/lvininicius.png" width="80">](https://github.com/lvininicius)  
-*Lucas Vinicius de Almeida*
-
-[<img src="https://github.com/JBVJoaoV.png" width="80">](https://github.com/JBVJoaoV)  
-*João Pedro de Souza*
-
-[<img src="https://github.com/JoaoChambrone.png" width="80">](https://github.com/JoaoChambrone)  
-*João Pedro Chambrone*
